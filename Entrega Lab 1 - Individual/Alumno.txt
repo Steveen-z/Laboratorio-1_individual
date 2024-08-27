@@ -1,0 +1,5 @@
+Alumno:
+	Steveen Antonio Portillo Gómez - U20240573
+
+Repositorio:
+	https://github.com/Steveen-z/Laboratorio-1_individual.git
